@@ -4,7 +4,7 @@ function goPage(pno,psize){
   console.log(num);
   let totalPage=0;
   let pageSize=psize;
-  if(num/pageSize>parseInt(num/parseInt)){
+  if(num/pageSize>parseInt(num/pageSize)){
     totalPage=parseInt(num/pageSize)+1;
   }else{
   totalPage=parseInt(num/pageSize);}
