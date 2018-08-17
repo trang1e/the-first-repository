@@ -7,4 +7,4 @@ music——web：html+css+js实现的静态音乐商城
 
 分页：html+js实现图片分页的功能
 
-spider-02.js:基于node.js的网易摄影图片爬虫
+test18.js:基于node.js的网易摄影图片爬虫
